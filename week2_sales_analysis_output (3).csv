@@ -1,0 +1,51 @@
+order_id,order_date,product_name,category,customer_name,region,payment_mode,quantity,unit_price,discount_percent,total_amount,discount_value,final_amount
+1001,01-01-2025,Printer,Electronics,Sneha,South,Cash,4,44402,0,177608,0,177608
+1002,02-01-2025,Office Chair,Electronics,Priya,East,Cash,4,40739,5,162956,8147.8,154808.2
+1003,03-01-2025,Notebook,Furniture,Amit,South,Card,7,3705,5,25935,1296.75,24638.25
+1004,04-01-2025,Laptop,Electronics,Sneha,South,UPI,8,47378,0,379024,0,379024
+1005,05-01-2025,Mouse,Stationery,Kiran,North,NetBanking,4,3552,5,14208,710.4,13497.6
+1006,06-01-2025,Office Chair,Electronics,Sneha,East,Cash,6,21735,15,130410,19561.5,110848.5
+1007,07-01-2025,Printer,Electronics,Kiran,North,Card,4,31260,15,125040,18756,106284
+1008,08-01-2025,Laptop,Furniture,Kiran,West,Card,3,10172,5,30516,1525.8,28990.2
+1009,09-01-2025,Laptop,Furniture,Priya,South,Card,5,48436,10,242180,24218,217962
+1010,10-01-2025,Mouse,Stationery,Kiran,North,Cash,5,12306,15,61530,9229.5,52300.5
+1011,11-01-2025,Notebook,Electronics,Neha,South,UPI,1,12954,10,12954,1295.4,11658.6
+1012,12-01-2025,Printer,Electronics,Amit,South,NetBanking,4,48179,0,192716,0,192716
+1013,13-01-2025,Notebook,Furniture,Kiran,West,NetBanking,4,55979,10,223916,22391.6,201524.4
+1014,14-01-2025,Mouse,Stationery,Rahul,North,NetBanking,9,48736,0,438624,0,438624
+1015,15-01-2025,Keyboard,Stationery,Amit,South,UPI,4,54065,10,216260,21626,194634
+1016,16-01-2025,Notebook,Furniture,Priya,West,UPI,6,16627,15,99762,14964.3,84797.7
+1017,17-01-2025,Printer,Electronics,Rahul,South,UPI,7,11773,0,82411,0,82411
+1018,18-01-2025,Keyboard,Stationery,Kiran,South,Card,8,30617,10,244936,24493.6,220442.4
+1019,19-01-2025,Notebook,Furniture,Neha,East,Cash,6,44856,10,269136,26913.6,242222.4
+1020,20-01-2025,Office Chair,Stationery,Neha,South,NetBanking,2,21085,0,42170,0,42170
+1021,21-01-2025,Notebook,Furniture,Amit,North,Cash,8,35870,15,286960,43044,243916
+1022,22-01-2025,Keyboard,Electronics,Rahul,North,Card,1,7225,10,7225,722.5,6502.5
+1023,23-01-2025,Notebook,Furniture,Kiran,West,Cash,3,58070,0,174210,0,174210
+1024,24-01-2025,Printer,Furniture,Kiran,East,UPI,9,22354,15,201186,30177.9,171008.1
+1025,25-01-2025,Keyboard,Stationery,Amit,South,Cash,3,6145,10,18435,1843.5,16591.5
+1026,26-01-2025,Notebook,Electronics,Kiran,North,NetBanking,2,34448,15,68896,10334.4,58561.6
+1027,27-01-2025,Mouse,Electronics,Neha,West,Card,5,11401,15,57005,8550.75,48454.25
+1028,28-01-2025,Mouse,Stationery,Kiran,West,NetBanking,1,24826,0,24826,0,24826
+1029,29-01-2025,Laptop,Stationery,Neha,North,Cash,5,14911,5,74555,3727.75,70827.25
+1030,30-01-2025,Printer,Furniture,Amit,West,Card,2,18970,10,37940,3794,34146
+1031,31-01-2025,Mouse,Electronics,Rahul,South,Card,8,7600,5,60800,3040,57760
+1032,01-02-2025,Mouse,Stationery,Sneha,East,Cash,4,37340,0,149360,0,149360
+1033,02-02-2025,Printer,Stationery,Neha,West,UPI,2,24574,15,49148,7372.2,41775.8
+1034,03-02-2025,Mouse,Stationery,Rahul,South,NetBanking,7,51248,10,358736,35873.6,322862.4
+1035,04-02-2025,Mouse,Electronics,Kiran,South,Cash,7,23595,10,165165,16516.5,148648.5
+1036,05-02-2025,Laptop,Electronics,Kiran,North,Cash,7,37691,10,263837,26383.7,237453.3
+1037,06-02-2025,Notebook,Furniture,Rahul,South,Cash,7,8715,0,61005,0,61005
+1038,07-02-2025,Mouse,Furniture,Rahul,North,UPI,1,58081,5,58081,2904.05,55176.95
+1039,08-02-2025,Laptop,Furniture,Amit,South,Card,1,35983,10,35983,3598.3,32384.7
+1040,09-02-2025,Laptop,Electronics,Neha,North,NetBanking,3,38448,15,115344,17301.6,98042.4
+1041,10-02-2025,Printer,Electronics,Rahul,South,UPI,7,5078,5,35546,1777.3,33768.7
+1042,11-02-2025,Office Chair,Furniture,Rahul,West,Cash,1,9098,5,9098,454.9,8643.1
+1043,12-02-2025,Keyboard,Furniture,Amit,South,Cash,7,42687,5,298809,14940.45,283868.55
+1044,13-02-2025,Mouse,Stationery,Priya,South,NetBanking,8,49876,5,399008,19950.4,379057.6
+1045,14-02-2025,Laptop,Electronics,Neha,West,Cash,1,11617,0,11617,0,11617
+1046,15-02-2025,Office Chair,Furniture,Rahul,South,UPI,4,58281,5,233124,11656.2,221467.8
+1047,16-02-2025,Printer,Stationery,Kiran,North,Card,1,55110,10,55110,5511,49599
+1048,17-02-2025,Mouse,Stationery,Amit,East,Cash,4,10757,5,43028,2151.4,40876.6
+1049,18-02-2025,Mouse,Electronics,Priya,South,Cash,5,18703,0,93515,0,93515
+1050,19-02-2025,Office Chair,Furniture,Priya,West,NetBanking,8,30206,0,241648,0,241648
